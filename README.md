@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm RanjithKumar  Varadaraj [Frontend Developer]
 
-<!--
-**ranjithkumar-it19/ranjithkumar-it19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate Java and Front-End Developer who loves building robust, scalable, and user-friendly applications. I enjoy working across the stack, blending powerful Java backends with modern, responsive web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Java, Spring Boot, and front-end projects with React.
+- 🌱 I’m always learning new technologies and best practices in web and software development.
+- 💬 Ask me about Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, React, and responsive web design.
+- 📫 How to reach me: email - rk0730157@gmail.com,  Or Mobile Number - 6385833480 .
+
+## 🛠️ Skills
+
+**Languages:**  
+Java, JavaScript, HTML5, CSS3, MySQL, Bootstrap.
+
+**Frameworks / Libraries:**  
+Spring Boot, React.js, Bootstrap.
+
+**Tools:**  
+Git, GitHub, VS Code, IntelliJ IDEA, Postman.
+
+---
+
+Thanks for visiting my profile!  
+Happy coding! 🚀
