@@ -15,7 +15,7 @@ I'm a passionate Java and Front-End Developer who loves building robust, scalabl
 Java, JavaScript, HTML5, CSS3, MySQL, Bootstrap.
 
 **Frameworks / Libraries:**  
-Spring Boot, React.js, Bootstrap.
+React.js, Bootstrap.
 
 **Tools:**  
 Git, GitHub, VS Code, IntelliJ IDEA, Postman.
