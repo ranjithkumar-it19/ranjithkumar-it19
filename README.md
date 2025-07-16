@@ -12,7 +12,7 @@ I'm a passionate Java and Front-End Developer who loves building robust, scalabl
 ## 🛠️ Skills
 
 **Languages:**  
-Java, JavaScript, HTML5, CSS3, MySQL, Bootstrap.
+Java, JavaScript, HTML5, CSS3, MySQL .
 
 **Frameworks / Libraries:**  
 React.js, Bootstrap.
