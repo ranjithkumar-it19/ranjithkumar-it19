@@ -1,25 +1,55 @@
-# Hi, I'm RanjithKumar  Varadaraj [Frontend Developer]
+👋 Hi, I'm Ranjith Kumar Varadaraj
+🚀 Software Developer
 
-## 🚀 About Me
+I’m a passionate developer who loves creating robust, scalable, and user-friendly applications. I enjoy working across the full stack—building powerful backends and crafting modern, responsive front-end experiences.
 
-I'm a passionate Java and Software Developer who loves building robust, scalable, and user-friendly applications. I enjoy working across the stack, blending powerful backends with modern, responsive web interfaces.
+✨ About Me
 
-- 🔭 I’m currently working on Java, Spring Boot, and front-end projects with React.
-- 🌱 I’m always learning new technologies and best practices in web and software development.
-- 📫 How to reach me: email - rk0730157@gmail.com,  Or Mobile Number - 6385833480 .
+🔭 Currently working on AI Chatbot and React projects.
 
-## 🛠️ Skills
+🌱 Always learning and exploring new technologies that enhance web & software development.
 
-**Languages:**  
-Java, Python, JavaScript, HTML5, CSS3, MySQL.
+📫 Reach me:
 
-**Frameworks / Libraries:**  
-React.js,Angular.js , Bootstrap ,Node.js , Express.js, ORM.
+📧 Email: rk0730157@gmail.com
 
-**Tools:**  
-Git, GitHub, VS Code, IntelliJ IDEA, Postman.
+📱 Mobile: 6385833480
 
----
+🛠️ Tech Stack & Skills
+Languages
 
-Thanks for visiting my profile!  
-Happy coding! 🚀
+Java, Python, JavaScript
+
+HTML5, CSS3
+
+MySQL
+
+Frameworks & Libraries
+
+React.js, Angular.js
+
+Bootstrap
+
+Node.js, Express.js
+
+ORM (Object Relational Mapping)
+
+Tools
+
+Git & GitHub
+
+VS Code, IntelliJ IDEA
+
+Postman
+
+🚀 What I Do
+
+✔ Build responsive and modern UIs
+✔ Develop RESTful APIs and backend services
+✔ Integrate front-end & back-end applications
+✔ Work with database design and optimization
+✔ Explore new technologies and coding practices
+
+🙌 Thanks for visiting my profile!
+
+Happy Coding! ✨🚀
