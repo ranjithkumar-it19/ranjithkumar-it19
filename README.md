@@ -1,5 +1,5 @@
 <h1 align="center">RanjithKumar Varadaraj</h1>
-<p align="center"><strong>Software Engineer</strong></p>
+<p align="center"><strong>AI Engineer</strong></p>
 
 ---
 
