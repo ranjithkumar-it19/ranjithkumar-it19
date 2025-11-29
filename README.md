@@ -1,55 +1,77 @@
-👋 Hi, I'm Ranjith Kumar Varadaraj
-🚀 Software Developer
+<!-- Dark Glass Theme -->
 
-I’m a passionate developer who loves creating robust, scalable, and user-friendly applications. I enjoy working across the full stack—building powerful backends and crafting modern, responsive front-end experiences.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=202020&height=80&section=header&text=Ranjith%20Kumar%20Varadaraj&fontSize=32&fontColor=00eaff&animation=fadeIn" />
+</div>
 
-✨ About Me
+<br>
 
-🔭 Currently working on AI Chatbot and React projects.
+<p align="center">
+  <strong style="color:#00eaff;font-size:22px;">Software Engineer</strong>
+</p>
 
-🌱 Always learning and exploring new technologies that enhance web & software development.
+<p align="center">
+  Crafting seamless user experiences with <strong>clean UI</strong>,  
+  <strong>efficient backend systems</strong>, and <strong>scalable architecture</strong>.
+</p>
 
-📫 Reach me:
+---
 
-📧 Email: rk0730157@gmail.com
+### 🕶️ About Me
 
-📱 Mobile: 6385833480
+- 🔭 Working on **React**, **AI** projects  
+- 🌱 Exploring modern frontend & backend ecosystems  
+- 💡 I love building visually pleasing and reliable applications  
+- 📫 **Email:** rk0730157@gmail.com  
+- 📱 **Mobile:** 6385833480  
 
-🛠️ Tech Stack & Skills
-Languages
+---
 
-Java, Python, JavaScript
+## 🛠️ Tech Stack (Dark Glass Style)
 
-HTML5, CSS3
+<div align="center" style="background:rgba(255,255,255,0.06);padding:18px;border-radius:16px;border:1px solid rgba(255,255,255,0.1);backdrop-filter:blur(6px);">
 
-MySQL
+### 💻 Languages
+`Java` • `Python` • `JavaScript` • `HTML` • `CSS` • `MySQL`
 
-Frameworks & Libraries
+### ⚙️ Frameworks / Libraries
+`React.js` • `Angular.js` • `Bootstrap` • `Node.js` • `Express.js` • `ORM`
 
-React.js, Angular.js
+### 🔧 Tools
+`Git` • `GitHub` • `VS Code` • `IntelliJ` • `Postman`
 
-Bootstrap
+</div>
 
-Node.js, Express.js
+---
 
-ORM (Object Relational Mapping)
+## ✨ GitHub Stats (Neon Blue Glow)
 
-Tools
+> 🔹 Replace `YOUR_GITHUB_USERNAME` in the links
 
-Git & GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=00eaff&icon_color=00eaff&text_color=cfcfcf&border_color=2d2d2d" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=00eaff&text_color=cfcfcf&border_color=2d2d2d" height="170" />
+</div>
 
-VS Code, IntelliJ IDEA
+---
 
-Postman
+## 🔮 Neon Badges
 
-🚀 What I Do
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-1f1f1f?style=for-the-badge&logo=openjdk&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/React-1f1f1f?style=for-the-badge&logo=react&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/Angular-1f1f1f?style=for-the-badge&logo=angular&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=for-the-badge&logo=nodedotjs&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/Bootstrap-1f1f1f?style=for-the-badge&logo=bootstrap&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/MySQL-1f1f1f?style=for-the-badge&logo=mysql&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=00eaff" />
+</p>
 
-✔ Build responsive and modern UIs
-✔ Develop RESTful APIs and backend services
-✔ Integrate front-end & back-end applications
-✔ Work with database design and optimization
-✔ Explore new technologies and coding practices
+---
 
-🙌 Thanks for visiting my profile!
+## 🖤 Thanks for Visiting
 
-Happy Coding! ✨🚀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=202020&height=70&section=footer&text=Happy%20Coding%20🚀&fontSize=25&fontColor=00eaff" />
+</div>
+
