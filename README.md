@@ -44,15 +44,8 @@
 - Portfolio Website – HTML, CSS, JavaScript  
 - E-Commerce Web App – Angular, Node.js, Express, MySQL 
 - File ChatBot - Python , Embedding Model(all-MiniLM-L6-v2), Vector db (Chroma db), LLM Model (gemini-2.5-flash) .
-
+- 
 ---
 
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjithkumar-it19&show_icons=true&theme=graywhite" height="150"/>
-</p>
-
----
-
-<p align="center">Thanks for visiting my profile ✨</p>
+<p align="center">Thanks for visiting my profile 🪶</p>
+<p align="center">Happy Coding 🚀</p>
