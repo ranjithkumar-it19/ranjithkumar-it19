@@ -24,8 +24,7 @@
 - MySQL  
 
 ### **🧩 Frameworks & Libraries**
-- React.js  
-- Angular.js  
+- React.js   
 - Bootstrap  
 - Node.js  
 - Express.js  
