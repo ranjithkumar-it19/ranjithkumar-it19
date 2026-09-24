@@ -42,8 +42,7 @@
 ## 📁 Projects
 - Portfolio Website – HTML, CSS, JavaScript  
 - E-Commerce Web App – Angular, Node.js, Express, MySQL 
-- File ChatBot - Python , Embedding Model(all-MiniLM-L6-v2), Vector db (Chroma db), LLM Model (gemini-2.5-flash) .
-- 
+- File ChatBot - Python , Embedding Model(all-MiniLM-L6-v2), Vector db (Chroma db), LLM Model (gemini-2.5-flash).
 ---
 
 <p align="center">Thanks for visiting my profile 🪶</p>
